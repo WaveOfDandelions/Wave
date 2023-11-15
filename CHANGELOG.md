@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/WaveOfDandelions/Wave/compare/v0.0.1...v0.0.2) (2023-11-15)
+
+
+### Miscellaneous
+
+* release 0.0.2 ([2ac5c2c](https://github.com/WaveOfDandelions/Wave/commit/2ac5c2c08dd31416bb5c9a6170b4a70724f19737))
+
 ## 1.0.0 (2023-11-15)
 
 
