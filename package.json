@@ -12,7 +12,7 @@
     "commit": "cz",
     "pre-release": "node ./scripts/release/release.js",
     "release": "git commit --allow-empty  -m \"chore: release 0.0.2\" && git push --follow-tags origin main",
-    "update": "git pull && node release.js"
+    "update": "git pull && npm run pre-release"
   },
   "files": [
     "**/*"
