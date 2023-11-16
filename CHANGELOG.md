@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.4](https://github.com/WaveOfDandelions/Wave/compare/v0.0.3...v0.0.4) (2023-11-16)
+
+
+### Bug Fixes
+
+* **release script:** fix release script with add release as string ([ab127b7](https://github.com/WaveOfDandelions/Wave/commit/ab127b73a992ac1bafec9180271f179e9862311b))
+
+
+### Miscellaneous
+
+* release 0.0.4 ([e7f53b9](https://github.com/WaveOfDandelions/Wave/commit/e7f53b9764dedc70cf6701f3bff911529ee91e77))
+
 ## [0.0.3](https://github.com/WaveOfDandelions/Wave/compare/v0.0.2...v0.0.3) (2023-11-16)
 
 
