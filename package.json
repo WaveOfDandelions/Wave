@@ -11,7 +11,7 @@
     "prepare": "husky install",
     "commit": "cz",
     "pre-release": "node ./scripts/release/release.js",
-    "release": "git commit --allow-empty  -m \"chore: release 0.0.3\" -m \"Release-As: 0.0.3\" && git push --follow-tags origin main",
+    "release": "git commit --allow-empty  -m \"chore: release 0.0.4\" -m \"Release-As: 0.0.4\" && git push --follow-tags origin main",
     "update": "git pull && npm run pre-release"
   },
   "files": [
