@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.0.3](https://github.com/WaveOfDandelions/Wave/compare/v0.0.2...v0.0.3) (2023-11-16)
+
+
+### Features
+
+* **sanity-portfolio:** add and init sanity studio, apply first blog post schema ([2de9a70](https://github.com/WaveOfDandelions/Wave/commit/2de9a70350dc65fb2ff61a11bba3986dc1dd6fb7))
+
+
+### Bug Fixes
+
+* **path:** fix pre-release script ([d6d5cbd](https://github.com/WaveOfDandelions/Wave/commit/d6d5cbdfa3865b7c1154b29771cb3318e8a0cacc))
+
+
+### Miscellaneous
+
+* release 0.0.3 ([c5f2e7a](https://github.com/WaveOfDandelions/Wave/commit/c5f2e7aab5f6be1059e59cc81fda3062e307b761))
+* release 0.0.3 ([9d34843](https://github.com/WaveOfDandelions/Wave/commit/9d34843fe515b78ac0f5a57529aa2438464b6837))
+
 ## [0.0.2](https://github.com/WaveOfDandelions/Wave/compare/v0.0.1...v0.0.2) (2023-11-15)
 
 
