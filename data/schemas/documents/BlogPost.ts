@@ -1,10 +1,10 @@
-import {GiNotebook} from 'react-icons/gi'
+import {GiBookCover} from 'react-icons/gi'
 
 export default {
   title: 'Posts',
   name: 'blog',
   type: 'document',
-  icon: GiNotebook,
+  icon: GiBookCover,
   fields: [
     {
       title: 'Title',
@@ -17,27 +17,23 @@ export default {
       type: 'slug',
       options: {
         source: 'title',
-        maxLength: 200, // will be ignored if slugify is set
-        slugify: (input: string) => input.toLowerCase().replace(/\s+/g, '-').slice(0, 200),
+        slugify: (input: string): string => input.toLowerCase().replace(/\s+/g, '-').slice(0, 200),
       },
     },
     {
       title: 'Post Image',
       name: 'postImage',
-      type: 'image',
-      options: {
-        hotspot: true,
-      },
+      type: 'customImage',
     },
     {
       title: 'Published At',
       name: 'publishedAt',
-      type: 'date',
+      type: 'datetime',
     },
     {
       title: 'Icon for post',
       name: 'icon',
-      type: 'icon', // <-- Icon schema type
+      type: 'icon',
     },
   ],
 }
