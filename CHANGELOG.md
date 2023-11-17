@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.5](https://github.com/WaveOfDandelions/Wave/compare/v0.0.4...v0.0.5) (2023-11-17)
+
+
+### Features
+
+* **schema:** add author and blog post schema ([255c909](https://github.com/WaveOfDandelions/Wave/commit/255c9099c67eab504f6a6bed4daca4c490110c48))
+
+
+### Miscellaneous
+
+* release 0.0.5 ([26841ce](https://github.com/WaveOfDandelions/Wave/commit/26841cea215f8079a619dbe89bd4668b10644e85))
+
 ## [0.0.4](https://github.com/WaveOfDandelions/Wave/compare/v0.0.3...v0.0.4) (2023-11-16)
 
 
