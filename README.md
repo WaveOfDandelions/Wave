@@ -1,3 +1,3 @@
 Portfolio project
 
-Version is 0.0.4
+Version is 0.0.6

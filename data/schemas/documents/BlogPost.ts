@@ -12,18 +12,19 @@ export default {
       type: 'string',
     },
     {
-      title: 'Slug',
-      name: 'slug',
-      type: 'slug',
-      options: {
-        source: 'title',
-        slugify: (input: string): string => input.toLowerCase().replace(/\s+/g, '-').slice(0, 200),
-      },
-    },
-    {
       title: 'Post Image',
       name: 'postImage',
       type: 'customImage',
+    },
+    {
+      title: 'Blog Content',
+      name: 'blogBody',
+      type: 'textEditor',
+    },
+    {
+      title: 'Icon for post',
+      name: 'icon',
+      type: 'icon',
     },
     {
       title: 'Published At',
@@ -31,9 +32,13 @@ export default {
       type: 'datetime',
     },
     {
-      title: 'Icon for post',
-      name: 'icon',
-      type: 'icon',
+      title: 'Slug',
+      name: 'slug',
+      type: 'slug',
+      options: {
+        source: 'title',
+        slugify: (input: string): string => input.toLowerCase().replace(/\s+/g, '-').slice(0, 200),
+      },
     },
   ],
 }
