@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.6](https://github.com/WaveOfDandelions/Wave/compare/v0.0.5...v0.0.6) (2023-11-20)
+
+
+### Features
+
+* **sanity schema:** add rich text editir for blog content ([1325473](https://github.com/WaveOfDandelions/Wave/commit/1325473770b41a52096f0ce3a4274fd45b126d2e))
+
+
+### Miscellaneous
+
+* release 0.0.6 ([e6ee72b](https://github.com/WaveOfDandelions/Wave/commit/e6ee72b11498406fa8ac059bec7d3cd00f6f57ad))
+
 ## [0.0.5](https://github.com/WaveOfDandelions/Wave/compare/v0.0.4...v0.0.5) (2023-11-17)
 
 
